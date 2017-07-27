@@ -1,0 +1,4 @@
+- apps/common/vendors/Composer/vendor/react/promise/src/functions.php
+Above uses short array syntax available from php 5.4. I modified it for regular array usage.
+
+- Delivery Servers Domain Policy has been disabled in 1.3.9.3 - Remove it for good in near future.
